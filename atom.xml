@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://shicharming.github.io/"/>
-  <updated>2020-03-29T01:06:23.447Z</updated>
+  <updated>2020-03-30T20:53:12.219Z</updated>
   <id>http://shicharming.github.io/</id>
   
   <author>
@@ -17,11 +17,103 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>GITHUB 新手上路</title>
-    <link href="http://shicharming.github.io/2020/03/28/github-b-beginners-guide/"/>
-    <id>http://shicharming.github.io/2020/03/28/github-b-beginners-guide/</id>
-    <published>2020-03-29T00:59:35.294Z</published>
-    <updated>2020-03-29T01:06:23.447Z</updated>
+    <title>Front-end-101</title>
+    <link href="http://shicharming.github.io/2020/03/30/front-end-101/"/>
+    <id>http://shicharming.github.io/2020/03/30/front-end-101/</id>
+    <published>2020-03-30T20:53:12.218Z</published>
+    <updated>2020-03-30T20:53:12.219Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="学习" scheme="http://shicharming.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="工作" scheme="http://shicharming.github.io/categories/%E5%B7%A5%E4%BD%9C/"/>
+    
+      <category term="语言" scheme="http://shicharming.github.io/categories/%E5%AD%A6%E4%B9%A0/%E8%AF%AD%E8%A8%80/"/>
+    
+      <category term="工具" scheme="http://shicharming.github.io/categories/%E5%B7%A5%E4%BD%9C/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Investment-Management-441</title>
+    <link href="http://shicharming.github.io/2020/03/30/investment-management-441/"/>
+    <id>http://shicharming.github.io/2020/03/30/investment-management-441/</id>
+    <published>2020-03-30T15:33:52.959Z</published>
+    <updated>2020-03-30T15:33:52.960Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="学习" scheme="http://shicharming.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="工作" scheme="http://shicharming.github.io/categories/%E5%B7%A5%E4%BD%9C/"/>
+    
+      <category term="语言" scheme="http://shicharming.github.io/categories/%E5%AD%A6%E4%B9%A0/%E8%AF%AD%E8%A8%80/"/>
+    
+      <category term="工具" scheme="http://shicharming.github.io/categories/%E5%B7%A5%E4%BD%9C/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Financial-Accounting-211</title>
+    <link href="http://shicharming.github.io/2020/03/30/financial-accounting-211/"/>
+    <id>http://shicharming.github.io/2020/03/30/financial-accounting-211/</id>
+    <published>2020-03-30T15:33:17.168Z</published>
+    <updated>2020-03-30T15:33:17.168Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="学习" scheme="http://shicharming.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="工作" scheme="http://shicharming.github.io/categories/%E5%B7%A5%E4%BD%9C/"/>
+    
+      <category term="语言" scheme="http://shicharming.github.io/categories/%E5%AD%A6%E4%B9%A0/%E8%AF%AD%E8%A8%80/"/>
+    
+      <category term="工具" scheme="http://shicharming.github.io/categories/%E5%B7%A5%E4%BD%9C/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Corporate-Finance-352</title>
+    <link href="http://shicharming.github.io/2020/03/30/corporate-finance-352/"/>
+    <id>http://shicharming.github.io/2020/03/30/corporate-finance-352/</id>
+    <published>2020-03-30T15:32:36.953Z</published>
+    <updated>2020-03-30T15:32:36.954Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="学习" scheme="http://shicharming.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="工作" scheme="http://shicharming.github.io/categories/%E5%B7%A5%E4%BD%9C/"/>
+    
+      <category term="语言" scheme="http://shicharming.github.io/categories/%E5%AD%A6%E4%B9%A0/%E8%AF%AD%E8%A8%80/"/>
+    
+      <category term="工具" scheme="http://shicharming.github.io/categories/%E5%B7%A5%E4%BD%9C/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>如何阅读一本书</title>
+    <link href="http://shicharming.github.io/2020/03/30/how-to-read-a-book/"/>
+    <id>http://shicharming.github.io/2020/03/30/how-to-read-a-book/</id>
+    <published>2020-03-30T15:31:16.622Z</published>
+    <updated>2020-03-30T18:32:18.610Z</updated>
     
     <summary type="html">
     
@@ -29,8 +121,39 @@
       
         
         
-          &lt;p&gt;测试测试，挖坑挖坑。&lt;/p&gt;
-
+          &lt;p&gt;​    开始慢慢填坑，为了提升输入的效率，所以决定第一本书还是复读一下 &lt;em&gt;《如何阅读一本书》&lt;/em&gt;。&lt;/p&gt;
+&lt;p&gt;​    阅读对一个人的成长是至关重要的。尽管现代科技的发展使得大多数讯息都不在流于纸张而是有更易于吸收的媒介（e.g.
+        
+      
+    
+    </summary>
+    
+    
+      <category term="学习" scheme="http://shicharming.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="阅读" scheme="http://shicharming.github.io/categories/%E5%AD%A6%E4%B9%A0/%E9%98%85%E8%AF%BB/"/>
+    
+    
+      <category term="阅读" scheme="http://shicharming.github.io/tags/%E9%98%85%E8%AF%BB/"/>
+    
+      <category term="方法" scheme="http://shicharming.github.io/tags/%E6%96%B9%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GITHUB 新手上路</title>
+    <link href="http://shicharming.github.io/2020/03/28/github-b-beginners-guide/"/>
+    <id>http://shicharming.github.io/2020/03/28/github-b-beginners-guide/</id>
+    <published>2020-03-29T00:59:35.294Z</published>
+    <updated>2020-03-30T20:51:44.118Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;为了把我的小网站建立的好看点，准备正式进军前端。 折腾了一天却因为一个小小的BUG，无限报错循环，由于源代码也被我改的面目全非，只能重装整个HEXO框架。于是想起GITHUB的&lt;a
         
       
     
@@ -80,37 +203,6 @@
       <category term="写作" scheme="http://shicharming.github.io/tags/%E5%86%99%E4%BD%9C/"/>
     
       <category term="笔记" scheme="http://shicharming.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Marketing research (1)</title>
-    <link href="http://shicharming.github.io/2020/03/27/marketing/"/>
-    <id>http://shicharming.github.io/2020/03/27/marketing/</id>
-    <published>2020-03-27T21:55:36.000Z</published>
-    <updated>2020-03-27T22:04:54.833Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;决定不等所有的bug都修复好了在开始写作，所以现在在边写assignment边构思这篇小笔记，未完成版，但是想让我的site看起来丰富点，所以决定先放上去。
-        
-      
-    
-    </summary>
-    
-    
-      <category term="大学" scheme="http://shicharming.github.io/categories/%E5%A4%A7%E5%AD%A6/"/>
-    
-    
-      <category term="商科" scheme="http://shicharming.github.io/tags/%E5%95%86%E7%A7%91/"/>
-    
-      <category term="学习" scheme="http://shicharming.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
-    
-      <category term="marketing" scheme="http://shicharming.github.io/tags/marketing/"/>
     
   </entry>
   
