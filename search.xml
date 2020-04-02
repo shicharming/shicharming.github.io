@@ -29,25 +29,29 @@
     
     
     <entry>
-      <title>Investment-Management-441</title>
+      <title>How to build a balanced portfolio (资产分配)</title>
       <link href="/2020/03/30/investment-management-441/"/>
       <url>/2020/03/30/investment-management-441/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p><strong>写在前面：</strong> 本学期上了Investment management。 在做期末作业时正好整理一下所学到的知识，以免未来的自己忘记。本篇以一位客户的理财诉求为模型，分析理财顾问都是如何给出建议的。 // 虽然是个商科学生但是自己的财务状况都还是一团糟，惭愧惭愧。</p><h2 id="Profile"><a href="#Profile" class="headerlink" title="Profile"></a>Profile</h2><h3 id="Personal-Info"><a href="#Personal-Info" class="headerlink" title="Personal Info"></a>Personal Info</h3><ul><li>Resident of Caribbean island, Canadian born</li><li>Not married</li><li>No kids</li></ul><h3 id="Composition-of-financial-wealth"><a href="#Composition-of-financial-wealth" class="headerlink" title="Composition of financial wealth"></a>Composition of financial wealth</h3><p>​    PWL portfolio- approx. $2,000,000</p><h3 id="Real-estate-situation"><a href="#Real-estate-situation" class="headerlink" title="Real estate situation"></a>Real estate situation</h3><ul><li>Home on Caribbean island</li><li>$3.5M market value</li><li>No mortgage</li></ul><h3 id="Private-business"><a href="#Private-business" class="headerlink" title="Private business"></a>Private business</h3>]]></content>
       
       
       <categories>
           
           <category> 学习 </category>
           
-          <category> 语言 </category>
-          
-          <category> 工作 </category>
-          
-          <category> 工具 </category>
+          <category> 理财 </category>
           
       </categories>
       
+      
+        <tags>
+            
+            <tag> 大学 </tag>
+            
+            <tag> 商科 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -79,25 +83,27 @@
     
     
     <entry>
-      <title>Corporate-Finance-352</title>
+      <title>Corporate finance</title>
       <link href="/2020/03/30/corporate-finance-352/"/>
       <url>/2020/03/30/corporate-finance-352/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p><strong>写在前面：</strong>公司金融研究怎么通过 </p><ol><li>调整finance的计划 （finance V：提供钱给一个项目，资助）</li><li>调整公司的资本结构 capital structure</li><li>investment decision</li></ol><p>来<strong>最大利益化</strong> 股票持有者的利益  </p><p>// 个人理解为：买了股票即为公司的部分持有者，所以大家同董事会都是一条船上的蚂蚱，而买公司债券的只是借钱给我们的人，所以整个公司的目标都为扩大股本净值而努力</p><p>以下介绍公司的财政部门都是如何做出这些决定，其中的原理何在。</p><h2 id="1-LONG-TERM-FINANCING"><a href="#1-LONG-TERM-FINANCING" class="headerlink" title="1. LONG TERM FINANCING"></a>1. LONG TERM FINANCING</h2><h3 id="1-1-Common-stock"><a href="#1-1-Common-stock" class="headerlink" title="1.1 Common stock"></a>1.1 Common stock</h3><pre><code>#### 1.1.1 Terminology</code></pre><p>​      </p><table><thead><tr><th>Authorized common stock</th><th>total # of shares firm can issue over life</th><th>政府规定公司能发行多少股票</th></tr></thead><tbody><tr><td>Issued common stock</td><td># already issued</td><td>公司已经发行的股票</td></tr><tr><td>Outstanding common stock</td><td># held by investors</td><td>被炒股的人持有的股票</td></tr><tr><td>Contributed surplus</td><td>$ excess par value –&gt; equity</td><td>股价多于par [^1]的部分直接增多了公司的资产净值</td></tr><tr><td>Retained earning</td><td>profits not paid out</td><td>赚了的钱</td></tr><tr><td>Share classes</td><td>tranches with diff voting rights</td><td>股票又有不同种类的区分，投票权不同。（就像普通的小P股民公司一般都不会让你开会参与决定）</td></tr></tbody></table><p>[^1]:  par对于债券来说是票面价格，如债券到期了以后你能得的那一大笔钱。 对于股票来说</p>]]></content>
       
       
       <categories>
           
-          <category> 学习 </category>
-          
-          <category> 语言 </category>
-          
-          <category> 工作 </category>
-          
-          <category> 工具 </category>
+          <category> 学习 - 商科 </category>
           
       </categories>
       
+      
+        <tags>
+            
+            <tag> 金融 </tag>
+            
+            <tag> Notes </tag>
+            
+        </tags>
       
     </entry>
     
