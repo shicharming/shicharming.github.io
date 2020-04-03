@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>形散神也散 （1）</title>
+      <link href="/2020/04/02/san-wen-no-1/"/>
+      <url>/2020/04/02/san-wen-no-1/</url>
+      
+        <content type="html"><![CDATA[<p><strong>写在前面：</strong>天下文章一大抄，最近看了看林清玄的<em>《人生最美是清欢》<em>，抄了挺多好词佳句，东抄抄西抄抄，争取偷来转化成自己的。 抄的多了自成一家。 想了想小说也不会写，只能写写短篇小散文，好在内容没有局限，也能让想象力匮乏的我创作。正值隔离，就创作一些像</em>《朝花夕拾》</em> 一类的回忆小散文吧 ：））</p><p>以下内容创作中 IGN！！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+          <category> 写作 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 练笔 </tag>
+            
+            <tag> 散文 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Front-end-101</title>
       <link href="/2020/03/30/front-end-101/"/>
       <url>/2020/03/30/front-end-101/</url>
@@ -33,7 +62,7 @@
       <link href="/2020/03/30/investment-management-441/"/>
       <url>/2020/03/30/investment-management-441/</url>
       
-        <content type="html"><![CDATA[<p><strong>写在前面：</strong> 本学期上了Investment management。 在做期末作业时正好整理一下所学到的知识，以免未来的自己忘记。本篇以一位客户的理财诉求为模型，分析理财顾问都是如何给出建议的。 // 虽然是个商科学生但是自己的财务状况都还是一团糟，惭愧惭愧。</p><h2 id="Financial-Planning-for-a-Life-The-Basics"><a href="#Financial-Planning-for-a-Life-The-Basics" class="headerlink" title="Financial Planning for a Life : The Basics"></a>Financial Planning for a Life : The Basics</h2><h3 id="1-储蓄"><a href="#1-储蓄" class="headerlink" title="1.储蓄"></a>1.储蓄</h3><p>现在存钱即使有可能降低生活成本也好过人没死钱花完了。</p><p><strong>rule of thumb:</strong>  每年花销占存款比例  建议为2% 根据生活成本向上微调</p><ul><li>3% probably safe</li><li>4% real risk</li><li>5% 无法去度假+罐头食品</li></ul><h3 id="2-如何分配资产，如何在退休后调整资产结构。"><a href="#2-如何分配资产，如何在退休后调整资产结构。" class="headerlink" title="2. 如何分配资产，如何在退休后调整资产结构。"></a>2. 如何分配资产，如何在退休后调整资产结构。</h3><h4 id="2-1-可投资选项"><a href="#2-1-可投资选项" class="headerlink" title="2.1 可投资选项"></a>2.1 可投资选项</h4><ul><li>国内股票 </li></ul><p>这个比较简单，几乎每个人都了解一点股票。 股票大体上来说风险高于债券但相同回报也高。 并且据研究表明，虽然短期内股票的风险较大，但长期持有股票几乎都不会亏钱，反而有的时候债权 （bond）在经过通货膨胀调整后可能会有入不敷出的情况产生。</p><p><img src="Investment-Management-441.assets/006INmKmgy1gdga1z74pej30s10lak2v.jpg" alt="债券股票和短期债券收益对比"></p><ul><li>国外股票</li></ul><p>国外股票相对于国内股票风险更大，主要在于 1. 汇率会波动 2.外国股票市场相对US 要不规范 3. 有政策风险 （比如说钱突然不让转回来了。</p><p>但是与之俱来的好处在于1.可以更好的分散自己的投资，不仅仅局限于一个地方，对冲自己的风险。2. 可能有更好的投资机会，你可以到发展的更快的市场投资，或者是投资只在某些国家才有的新兴产业。</p><p>建议： 5%-10% 可以投资于国外股票市场，不超过25%</p><ul><li>ETF 交易所交易基金 （Exchange traded fund)</li></ul><p><strong>[*注释] 基金：</strong> 简单来说基金就是一揽子股票。 大家都知道投资市场唯一“免费的午餐”就是分散投资来提高自己资产的的回报与[^1] 风险比率。（reward to risk) 。 而对于个人投资者，自己主动的配置很多不同的资产过于复杂并且其中要交很多的手续费 （如果每一个都几千块钱这样）。 所以便统一交予一个基金经理来管理，期待他战胜投资市场beat the market。</p><p>那什么是ETF呢，普通的基金会要求缴纳管理费，如果是采取主动管理策略那更加不菲。 （这样通常出现在高风险的中小板块股票，因为要去公司走访，聘请分析师。风险大回报也大，对应收的管理费也会多）并且会有一定的最小持有期，以防你突然把钱拿走了，基金的资金不足。 我只说一下开放型基金，因为ETF也是[^2]开放型基金。</p><p>ETF的好处在于</p><ol><li>管理费低 （大多数是被动管理，用算法追踪一个[^3]指数像S&amp;P 500)</li><li>可以避免或者推迟一些税收。 （ 基金每一次有别的投资者卖出，都会算成参与集资的人全员获利，因此即使你什么都没做，每年可能都要交税。</li><li>交易便利 ，24H （相当于买了一个安全系数高的股票了）</li><li>不会大幅折价。 基金的价格与基金的净值挂钩而不是市场值，大家可以从中套利从而也算是维护了基金价格的稳定。</li></ol><p>（这个名字在我学习之前也让我特别迷，我一度以为是“鸡精”。还在感叹不愧是中国人，民以食为天，纷纷投资鸡精，就像外国人不怕饿死但怕卷纸不够用一样。）</p><h2 id="Profile"><a href="#Profile" class="headerlink" title="Profile"></a>Profile</h2><h3 id="Personal-Info"><a href="#Personal-Info" class="headerlink" title="Personal Info"></a>Personal Info</h3><ul><li>Resident of Caribbean island, Canadian born</li><li>Not married</li><li>No kids</li></ul><h3 id="Composition-of-financial-wealth"><a href="#Composition-of-financial-wealth" class="headerlink" title="Composition of financial wealth"></a>Composition of financial wealth</h3><p>​    PWL portfolio- approx. $2,000,000</p><h3 id="Real-estate-situation"><a href="#Real-estate-situation" class="headerlink" title="Real estate situation"></a>Real estate situation</h3><ul><li>Home on Caribbean island</li><li>$3.5M market value</li><li>No mortgage</li></ul><h3 id="Private-business"><a href="#Private-business" class="headerlink" title="Private business"></a>Private business</h3><p>[^1]: 大部分投资者追求高的 Sharpe ratio 既冒着同样大的投资风险，投资回报与风险的比例。 比例自然是越大越好，此处的投资者称为 风险规避投资者（risk-aversion investor）。大部分人也是这样，可能只有少数人会只想要最小化自己的风险。 比如给你一个亿让你投骰子得到一个大于2的数与直接给你10块钱你会怎么选。 正常人都会承担这个六分之一的风险，因为回报实在太大了。而如果真的想最低化自己的风险自然是选择拿不承担风险的十元钱，这样的人还是极少数。<br>[^2]: 开放型即基金的购买和赎回没有特近的期限。 创立人可以一直卖自己的基金也可以随时买回来一些。通常这样的基金交易更加频繁，所有交易都在四点发生，赎回费用也低一点。 而关闭型基金就像企业发行股票，提前赎回要交的费用也更多，但是相应的管理人会有很多的自由，因为大部分人不会突然赎回，基金经理可以投资期货或做空股票，这些风险更高。<br>[^3]: 指数就是对一个市场的衡量。 最常见的S&amp;P 500 就是集合了五百只美国不同领域的股票。用来代表股市总体的走向与情况。 也用来对比基金经理人是不是投资的好。 比如说，如果大盘走势好，基金经理盈利是必然的，你不能说他技术超高不过是巧借东风。 但如果计算 α （这是一个计算超出回报的方法 ’excessive return‘），看经理比大盘的标准多了多少回报以此来衡量水准。 这样更有道理！</p><p>Reference: </p><p><a href="https://www.investopedia.com/articles/investing/032615/how-trade-foreign-stocks.asp" target="_blank" rel="noopener">https://www.investopedia.com/articles/investing/032615/how-trade-foreign-stocks.asp</a> 6 ways to invest in foreign stocks</p>]]></content>
+        <content type="html"><![CDATA[<p><strong>写在前面：</strong> 本学期上了Investment management。 在做期末作业时正好整理一下所学到的知识，以免未来的自己忘记。本篇以一位客户的理财诉求为模型，分析理财顾问都是如何给出建议的。 // 虽然是个商科学生但是自己的财务状况都还是一团糟，惭愧惭愧。</p><h2 id="Financial-Planning-for-a-Life-The-Basics"><a href="#Financial-Planning-for-a-Life-The-Basics" class="headerlink" title="Financial Planning for a Life : The Basics"></a>Financial Planning for a Life : The Basics</h2><h3 id="1-储蓄"><a href="#1-储蓄" class="headerlink" title="1.储蓄"></a>1.储蓄</h3><p>现在存钱即使有可能降低生活成本也好过人没死钱花完了。</p><p><strong>rule of thumb:</strong>  每年花销占存款比例  建议为2% 根据生活成本向上微调</p><ul><li>3% probably safe</li><li>4% real risk</li><li>5% 无法去度假+罐头食品</li></ul><h3 id="2-如何分配资产，如何在退休后调整资产结构。"><a href="#2-如何分配资产，如何在退休后调整资产结构。" class="headerlink" title="2. 如何分配资产，如何在退休后调整资产结构。"></a>2. 如何分配资产，如何在退休后调整资产结构。</h3><h4 id="2-1-可投资选项"><a href="#2-1-可投资选项" class="headerlink" title="2.1 可投资选项"></a>2.1 可投资选项</h4><ul><li>国内股票 </li></ul><p>这个比较简单，几乎每个人都了解一点股票。 股票大体上来说风险高于债券但相同回报也高。 并且据研究表明，虽然短期内股票的风险较大，但长期持有股票几乎都不会亏钱，反而有的时候债权 （bond）在经过通货膨胀调整后可能会有入不敷出的情况产生。</p><p><img src="Investment-Management-441.assets/006INmKmgy1gdgd2xsdt4j30s10ladlc.jpg" alt="回报对比（大概率又图裂了，😔）"></p><ul><li>国外股票</li></ul><p>国外股票相对于国内股票风险更大，主要在于 1. 汇率会波动 2.外国股票市场相对US 要不规范 3. 有政策风险 （比如说钱突然不让转回来了。</p><p>但是与之俱来的好处在于1.可以更好的分散自己的投资，不仅仅局限于一个地方，对冲自己的风险。2. 可能有更好的投资机会，你可以到发展的更快的市场投资，或者是投资只在某些国家才有的新兴产业。</p><p>建议： 5%-10% 可以投资于国外股票市场，不超过25%</p><ul><li>ETF 交易所交易基金 （Exchange traded fund)</li></ul><p><strong>[*注释] 基金：</strong> 简单来说基金就是一揽子股票。 大家都知道投资市场唯一“免费的午餐”就是分散投资来提高自己资产的的回报与[^1]  风险比率。（reward to risk) 。 而对于个人投资者，自己主动的配置很多不同的资产过于复杂并且其中要交很多的手续费 （如果每一个都几千块钱这样）。 所以便统一交予一个基金经理来管理，期待他战胜投资市场beat the market。</p><p>那什么是ETF呢，普通的基金会要求缴纳管理费，如果是采取主动管理策略那更加不菲。 （这样通常出现在高风险的中小板块股票，因为要去公司走访，聘请分析师。风险大回报也大，对应收的管理费也会多）并且会有一定的最小持有期，以防你突然把钱拿走了，基金的资金不足。 我只说一下开放型基金，因为ETF也是[^2]开放型基金。</p><p>ETF的好处在于</p><ol><li>管理费低 （大多数是被动管理，用算法追踪一个[^3] 指数像S&amp;P 500)</li><li>可以避免或者推迟一些税收。 （ 基金每一次有别的投资者卖出，都会算成参与集资的人全员获利，因此即使你什么都没做，每年可能都要交税。</li><li>交易便利 ，24H （相当于买了一个安全系数高的股票了）</li><li>不会大幅折价。 基金的价格与基金的净值挂钩而不是市场值，大家可以从中套利从而也算是维护了基金价格的稳定。</li></ol><p>（这个名字在我学习之前也让我特别迷，我一度以为是“鸡精”。还在感叹不愧是中国人，民以食为天，纷纷投资鸡精，就像外国人不怕饿死但怕卷纸不够用一样。）</p><h2 id="Profile"><a href="#Profile" class="headerlink" title="Profile"></a>Profile</h2><h3 id="Personal-Info"><a href="#Personal-Info" class="headerlink" title="Personal Info"></a>Personal Info</h3><ul><li>Resident of Caribbean island, Canadian born</li><li>Not married</li><li>No kids</li></ul><h3 id="Composition-of-financial-wealth"><a href="#Composition-of-financial-wealth" class="headerlink" title="Composition of financial wealth"></a>Composition of financial wealth</h3><p>​    PWL portfolio- approx. $2,000,000</p><h3 id="Real-estate-situation"><a href="#Real-estate-situation" class="headerlink" title="Real estate situation"></a>Real estate situation</h3><ul><li>Home on Caribbean island</li><li>$3.5M market value</li><li>No mortgage</li></ul><h3 id="Private-business"><a href="#Private-business" class="headerlink" title="Private business"></a>Private business</h3><p>[^1]: 大部分投资者追求高的 Sharpe ratio 既冒着同样大的投资风险，投资回报与风险的比例。 比例自然是越大越好，此处的投资者称为 风险规避投资者（risk-aversion investor）。大部分人也是这样，可能只有少数人会只想要最小化自己的风险。 比如给你一个亿让你投骰子得到一个大于2的数与直接给你10块钱你会怎么选。 正常人都会承担这个六分之一的风险，因为回报实在太大了。而如果真的想最低化自己的风险自然是选择拿不承担风险的十元钱，这样的人还是极少数。<br>[^2]: 开放型即基金的购买和赎回没有特近的期限。 创立人可以一直卖自己的基金也可以随时买回来一些。通常这样的基金交易更加频繁，所有交易都在四点发生，赎回费用也低一点。 而关闭型基金就像企业发行股票，提前赎回要交的费用也更多，但是相应的管理人会有很多的自由，因为大部分人不会突然赎回，基金经理可以投资期货或做空股票，这些风险更高。<br>[^3]: 指数就是对一个市场的衡量。 最常见的S&amp;P 500 就是集合了五百只美国不同领域的股票。用来代表股市总体的走向与情况。 也用来对比基金经理人是不是投资的好。 比如说，如果大盘走势好，基金经理盈利是必然的，你不能说他技术超高不过是巧借东风。 但如果计算 α （这是一个计算超出回报的方法 ’excessive return‘），看经理比大盘的标准多了多少回报以此来衡量水准。 这样更有道理！</p><p>Reference: </p><p><a href="https://www.investopedia.com/articles/investing/032615/how-trade-foreign-stocks.asp" target="_blank" rel="noopener">https://www.investopedia.com/articles/investing/032615/how-trade-foreign-stocks.asp</a> 6 ways to invest in foreign stocks</p>]]></content>
       
       
       <categories>
