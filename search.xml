@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>学习方法整理</title>
+      <link href="/2020/04/27/xue-xi-fang-fa/"/>
+      <url>/2020/04/27/xue-xi-fang-fa/</url>
+      
+        <content type="html"><![CDATA[<h2 id="学习的目标–-gt-主动学习"><a href="#学习的目标–-gt-主动学习" class="headerlink" title="学习的目标–&gt;主动学习"></a>学习的目标–&gt;主动学习</h2><ol><li>能够融汇贯通知识，并且用自己的话教导给他人。</li><li>可以在需要利用知识的时及时获取并运用。</li></ol><h3 id="步骤分解"><a href="#步骤分解" class="headerlink" title="步骤分解"></a>步骤分解</h3><h4 id="1-提取概念"><a href="#1-提取概念" class="headerlink" title="1. 提取概念"></a>1. 提取概念</h4><p>从正在学习的知识中提取<strong>基本，抽象，围绕问题本质的思想</strong>。 </p><p>  核心知识，最终结论，随后检阅自己能否和别人说清楚这些概念。</p><h4 id="2-构建模型"><a href="#2-构建模型" class="headerlink" title="2.构建模型"></a>2.构建模型</h4><p>把一系列的动作捆绑打包，以达到记忆的深度。 类似于物理时复杂的题目都是由一个个模型如小球模型，滑梯模型，木块模型所组合而成的。 把步骤打包在一起下一次提取使用就能加快速度。</p><p>​        <strong>将所学的概念组合起来</strong></p><h4 id="3-建立联系"><a href="#3-建立联系" class="headerlink" title="3.建立联系"></a>3.建立联系</h4><p>把新知识和旧知识串联起来，在<strong>已知的基础上搭建未知</strong>。 想到的是： 在学习一个新的编程语言时，可以通过对比学习来发现同异点，加快速度。</p><p>  <strong>抽象联系实际，</strong></p><h4 id="4-实践解决问题"><a href="#4-实践解决问题" class="headerlink" title="4.实践解决问题"></a>4.实践解决问题</h4><p>学习的动机是为了解决问题不是为了学习而学习。 目的驱动，明确的目标，与自己的生活息息相关的知识也让人更有动力。 （比如说目前为了提高自己的学习效率，各种看书看帖子）</p><h3 id="反思"><a href="#反思" class="headerlink" title="反思"></a>反思</h3><p>目前大部分时间在提取概念和实践上做的比较好，但是从来没有自己将知识一个个构建模型，总是自欺欺人当作自己学会了。 牢记：<strong>知识获得越艰难记得越牢，看似无效实则有效。</strong></p><p>  一直反复看书不如进行自测，间隔复习，多科目穿插，在多地点进行学习。</p><h3 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h3><p>目前正在学习 </p><ol><li><p>复习算法和学习C与计算机语言</p><p> ​    将概念都整理好，摘抄，把各种命令功能整理起来，偶尔的灵感分门别类 （debug 模型之类）。争取在网站上能自己写一篇文章假装教别人，哈哈。</p><p> ​    把自己的网站建设好 （目标）</p></li><li><p>日语</p><p> 大量重复，不要在意小小的单词没背好，整理语法笔记，坚持上日语课吧。</p></li><li><p>学画画</p><p>  还没想到有什么改进方法，刚开始在家无聊的看书。</p></li></ol><h3 id="写在最后："><a href="#写在最后：" class="headerlink" title="写在最后："></a>写在最后：</h3><p>不知不觉又断更小破站好久，感觉没什么可写的因为干货还是太少了，每天都觉得自己特愚蠢什么都不会…很久没用各种deploy的指令都要忘了，最近重新学CS发现很多知识都是空中楼阁，根基不稳固，原理都不明白就开始上手写代码，懂了很多也想把自己的进步一点一滴记录下来，希望会保持更新：））</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 整理 </tag>
+            
+            <tag> 学习方法 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>2.0时代</title>
       <link href="/2020/04/11/2/"/>
       <url>/2020/04/11/2/</url>
@@ -133,33 +160,6 @@
           
       </categories>
       
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Corporate finance</title>
-      <link href="/2020/03/30/corporate-finance-352/"/>
-      <url>/2020/03/30/corporate-finance-352/</url>
-      
-        <content type="html"><![CDATA[<p><strong>写在前面：</strong>公司金融研究怎么通过 </p><ol><li>调整finance的计划 （finance V：提供钱给一个项目，资助）</li><li>调整公司的资本结构 capital structure</li><li>investment decision</li></ol><p>来<strong>最大利益化</strong> 股票持有者的利益  </p><p>// 个人理解为：买了股票即为公司的部分持有者，所以大家同董事会都是一条船上的蚂蚱，而买公司债券的只是借钱给我们的人，所以整个公司的目标都为扩大股本净值而努力</p><p>以下介绍公司的财政部门都是如何做出这些决定，其中的原理何在。</p><h2 id="1-LONG-TERM-FINANCING"><a href="#1-LONG-TERM-FINANCING" class="headerlink" title="1. LONG TERM FINANCING"></a>1. LONG TERM FINANCING</h2><h3 id="1-1-Common-stock"><a href="#1-1-Common-stock" class="headerlink" title="1.1 Common stock"></a>1.1 Common stock</h3><pre><code>#### 1.1.1 Terminology</code></pre><p>​      </p><table><thead><tr><th>Authorized common stock</th><th>total # of shares firm can issue over life</th><th>政府规定公司能发行多少股票</th></tr></thead><tbody><tr><td>Issued common stock</td><td># already issued</td><td>公司已经发行的股票</td></tr><tr><td>Outstanding common stock</td><td># held by investors</td><td>被炒股的人持有的股票</td></tr><tr><td>Contributed surplus</td><td>$ excess par value –&gt; equity</td><td>股价多于par [^1]的部分直接增多了公司的资产净值</td></tr><tr><td>Retained earning</td><td>profits not paid out</td><td>赚了的钱</td></tr><tr><td>Share classes</td><td>tranches with diff voting rights</td><td>股票又有不同种类的区分，投票权不同。（就像普通的小P股民公司一般都不会让你开会参与决定）</td></tr></tbody></table><p>[^1]:  par对于债券来说是票面价格，如债券到期了以后你能得的那一大笔钱。 对于股票来说</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 学习 - 商科 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 金融 </tag>
-            
-            <tag> Notes </tag>
-            
-        </tags>
       
     </entry>
     

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://shicharming.github.io/"/>
-  <updated>2020-04-12T05:01:07.466Z</updated>
+  <updated>2020-04-27T18:37:57.271Z</updated>
   <id>http://shicharming.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>学习方法整理</title>
+    <link href="http://shicharming.github.io/2020/04/27/xue-xi-fang-fa/"/>
+    <id>http://shicharming.github.io/2020/04/27/xue-xi-fang-fa/</id>
+    <published>2020-04-27T17:41:25.700Z</published>
+    <updated>2020-04-27T18:37:57.271Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;学习的目标–-gt-主动学习&quot;&gt;&lt;a href=&quot;#学习的目标–-gt-主动学习&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="学习" scheme="http://shicharming.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="整理" scheme="http://shicharming.github.io/tags/%E6%95%B4%E7%90%86/"/>
+    
+      <category term="学习方法" scheme="http://shicharming.github.io/tags/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/"/>
+    
+  </entry>
   
   <entry>
     <title>2.0时代</title>
@@ -151,38 +180,6 @@
     
       <category term="工具" scheme="http://shicharming.github.io/categories/%E5%B7%A5%E4%BD%9C/%E5%B7%A5%E5%85%B7/"/>
     
-    
-  </entry>
-  
-  <entry>
-    <title>Corporate finance</title>
-    <link href="http://shicharming.github.io/2020/03/30/corporate-finance-352/"/>
-    <id>http://shicharming.github.io/2020/03/30/corporate-finance-352/</id>
-    <published>2020-03-30T15:32:36.953Z</published>
-    <updated>2020-04-01T14:57:02.425Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;写在前面：&lt;/strong&gt;公司金融研究怎么通过 &lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;调整finance的计划 （finance V：提供钱给一个项目，资助）&lt;/li&gt;
-&lt;li&gt;调整公司的资本结构 capital
-        
-      
-    
-    </summary>
-    
-    
-      <category term="学习 - 商科" scheme="http://shicharming.github.io/categories/%E5%AD%A6%E4%B9%A0-%E5%95%86%E7%A7%91/"/>
-    
-    
-      <category term="金融" scheme="http://shicharming.github.io/tags/%E9%87%91%E8%9E%8D/"/>
-    
-      <category term="Notes" scheme="http://shicharming.github.io/tags/Notes/"/>
     
   </entry>
   
